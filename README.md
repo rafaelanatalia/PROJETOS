@@ -1,4 +1,4 @@
-<h1>Olá,bem vindo!! aos meus Projetos pessoais publicos🖐</h1> 
+<h1>Olá,bem vindo!! aos meus Projetos Pessoais 🖐</h1> 
 <h2>Aqui se encontra todos meus estudos na parte de Frontend</h2>
 
 <p>São projetos simples para fixação e desenvoltura de conhecimentos a quais estou adquirindo</p>
