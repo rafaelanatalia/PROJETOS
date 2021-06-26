@@ -1,5 +1,5 @@
-<h1>Olá,bem vindo!! aos meus Projetos Pessoais 🖐</h1> 
-<h2>Aqui se encontra todos meus estudos na parte de Frontend</h2>
+<h1>Olá,bem vindo!! aos meus Projetos  🖐</h1> 
+<h2>Aqui se encontra todos meus estudos em diversas linguagens</h2>
 
 <p>São projetos simples para fixação e desenvoltura de conhecimentos a quais estou adquirindo</p>
 
@@ -8,6 +8,7 @@
   <img align="center" alt="RN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RN-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="RN-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
  
 <h3>Contatos</h3>
