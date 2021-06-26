@@ -1,0 +1,16 @@
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\bin\Debug\net5.0\DIO.Bank.exe
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\bin\Debug\net5.0\DIO.Bank.deps.json
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\bin\Debug\net5.0\DIO.Bank.dll
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\bin\Debug\net5.0\ref\DIO.Bank.dll
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\bin\Debug\net5.0\DIO.Bank.pdb
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\obj\Debug\net5.0\DIO.Bank.dll
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\obj\Debug\net5.0\ref\DIO.Bank.dll
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\obj\Debug\net5.0\DIO.Bank.pdb
+W:\dio  replicas\Aplicativo-.NET-DIO.BANK-main\Aplicativo-.NET-DIO.BANK-main\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
